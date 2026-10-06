@@ -57,4 +57,6 @@ $$
 x = 2*4 / y
 $$
 
+![Foto 1](Orgauditivo.jpg).
+![Gif 2](Nicolacito.gif).
 
